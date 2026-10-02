@@ -116,6 +116,7 @@ def find_hour_data(data, target_time):
 # 날씨 출력
 # ----------------------------------------
 
+# feature/display - 날씨 정보를 보기 좋은 형식으로 출력
 def print_weather(data, city):
 
     dates = data["daily"]["time"]
