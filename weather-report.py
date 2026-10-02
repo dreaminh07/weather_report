@@ -62,6 +62,7 @@ def get_weather(city):
 
     latitude, longitude = locations[city]
 
+    # feature/api - Open-Meteo API를 이용하여 실시간 날씨 데이터 요청
     url = "https://api.open-meteo.com/v1/forecast"
 
     params = {
