@@ -1,6 +1,6 @@
 # feature/basic - 기본 날씨 리포트 구성
 # weather-report.py
-# GitHub: https://github.com/본인아이디/python-weather-report
+# GitHub: https://github.com/dreamingh07/python-weather-report
 #
 # Open-Meteo API를 이용한 3일 날씨 리포트 프로그램
 # 오전 6시 / 오후 3시 기준 날씨를 출력합니다.
