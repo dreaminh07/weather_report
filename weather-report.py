@@ -1,3 +1,4 @@
+# feature/basic - 기본 날씨 리포트 구성
 # weather-report.py
 # GitHub: https://github.com/본인아이디/python-weather-report
 #
