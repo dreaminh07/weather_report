@@ -209,6 +209,7 @@ def main():
     print()
     print(f"📍 {city}의 날씨 정보를 가져오는 중입니다...")
 
+    # feature/error - API 요청 및 프로그램 실행 중 발생할 수 있는 오류 처리
     try:
 
         data = get_weather(city)
